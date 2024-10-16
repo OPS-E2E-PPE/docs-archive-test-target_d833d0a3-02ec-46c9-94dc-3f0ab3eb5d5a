@@ -11,6 +11,18 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs"
+    },
+    {
+      "docset_name": "E2EArchiveTarget_9179d7d8-aab9-4577-b3b1-21aba7aa369d",
+      "build_source_folder": "test-folder",
+      "build_output_subfolder": "E2EArchiveTarget_9179d7d8-aab9-4577-b3b1-21aba7aa369d",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [],
